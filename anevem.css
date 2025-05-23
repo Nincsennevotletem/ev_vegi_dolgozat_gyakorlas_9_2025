@@ -6,9 +6,8 @@
 
 
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color:  #f0fdf4;
-    color: #1a3e2e;   
+    max-width: 900px;
+    margin:auto; 
 }
 
 nav{
