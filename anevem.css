@@ -28,5 +28,7 @@
     margin-left: 0.5em;
     margin-right: 0.5em;
     border-radius: 5px;
-    animation: 0.3ms #047857;
+}
+.a:hover{
+    background-color: #047857;
 }
