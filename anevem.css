@@ -5,13 +5,13 @@
 }
 
 
-.body{
+body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color:  #f0fdf4;
     color: #1a3e2e;   
 }
 
-.nav{
+nav{
     background-color: #10b981;
     padding: 1rem;
     margin: 2rem;
@@ -29,6 +29,16 @@
     margin-right: 0.5em;
     border-radius: 5px;
 }
-.a:hover{
+
+h1{
+    text-align: center;
+    background-color: #059669;
+    color: #ffffff;
+    padding: 1.5em;
+    margin-bottom: 2em;
+    font-size: 3em;
+}
+
+a:hover{
     background-color: #047857;
 }
